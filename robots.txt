@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: https://amanrawat121.github.io/blog/sitemap.xml
